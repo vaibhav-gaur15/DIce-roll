@@ -39,3 +39,8 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+button{
+  border-radius: 5px;
+  background-color: rgb(232, 134, 157);
+}
+
