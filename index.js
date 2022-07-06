@@ -28,6 +28,8 @@ else
 {
     document.querySelector("h1").innerHTML="player 2 wins";
 }
-
+function myFunction() {
+    location.reload();
+}
 
 
